@@ -1,0 +1,2 @@
+# TestLogbackUpd2SysLogServer
+一次学习使用logback记录日志通过Upd传输发送给Syslog服务器的demo
